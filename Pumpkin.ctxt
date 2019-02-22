@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pumpkin
+comment1.params=
+comment1.target=Pumpkin()
+comment2.params=PUMPKIN_COLORS
+comment2.target=Pumpkin(java.awt.Color[])
+numComments=3

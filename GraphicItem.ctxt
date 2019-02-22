@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GraphicItem
+comment1.params=g2\ x\ y\ scale\ rotation
+comment1.target=void\ paint(java.awt.Graphics2D,\ double,\ double,\ double,\ int)
+numComments=2
